@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/1/15 0:55:26。
+     1>项目“E:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\投票系统.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(267): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(294): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(308): warning C4018: “>”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(427): warning C4018: “>”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(499): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(502): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(509): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(511): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(513): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(521): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(526): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\main.cpp(663): warning C4018: “>”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\Debug\投票系统.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\Debug\投票系统.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\Debug\投票系统.lib" /MACHINE:X86 Debug\main.obj
+         投票系统.vcxproj -> E:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\Debug\投票系统.exe
+     1>已完成生成项目“E:\桌面文件\清华\3.大二上\3.数算\作业\投票系统\投票系统\投票系统.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.98
